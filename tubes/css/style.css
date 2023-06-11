@@ -1,0 +1,321 @@
+*, html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    outline: none;
+    text-decoration: none;
+}
+
+/* Halaman Depan */
+
+/* Navbar */
+
+.navbar-brand img {
+    width: 100px;
+    height: 100px;
+    transform: translateY(5px);
+}
+
+.navgeser {
+    transform: translateX(60px) !important;
+}
+
+.tab {
+    color: #fff !important;
+}
+
+.tab:hover {
+    color: #3C84AB !important;
+}
+
+/* Akhir Navbar */
+
+/* News */
+
+.newsmenurun {
+    transform: translateY(15px);
+}
+
+.gambar {
+    
+    background-size: cover;
+    height: 60vh;
+}
+
+.news {
+    background-color: #fff;
+    padding: 0;
+}
+
+.news h4 {
+    background-color: #393646;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+.news p {
+    transform: translateY(15px);
+}
+
+.news button {
+    transform: translateY(35px);
+}
+
+.news button a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.tekan:hover {
+    background-color: #fff !important;
+}
+
+.tekan a:hover {
+    color: black !important;
+}
+
+/* Akhir News */
+
+/* Hot News */
+
+.hotmeninggi {
+    height: 100vh;
+}
+
+.hotmenurun {
+    transform: translateY(40px);
+}
+
+.isihotmenurun {
+    transform: translateY(20px);
+}
+
+.isihotmengecil {
+    width: 25% !important;
+    margin: 10px;
+    padding: 10px;
+}
+
+.isihotmengecil img {
+    width: 100% !important;
+    -webkit-transition: 0.4s ease;
+    transition: 0.4s ease;
+}
+
+.isihotmengecil a img:hover {
+    -webkit-transform: scale(1.08);
+    transform: scale(1.08);
+}
+
+.isihotmengecil p {
+    transform: translateY(10px);
+    color: #3C84AB;
+}
+
+.isihotmengecil a  {
+    text-decoration: none;
+    color: black;
+}
+
+.isihotmengecil a:hover {
+    color: #3C84AB;
+}
+
+/* Akhir Hot News */
+
+/* Footer */
+
+.warnafooter {
+    background-color: #393646;
+    padding: 30px;
+    height: 75vh;
+}
+
+.copyright p {
+    color: #fff;
+    transform: translateY(70px);
+}
+
+.container hr {
+    color: #fff;
+}
+
+.isifootermengecil {
+    transform: translateY(-25px);
+}
+
+.isifootermengecil img {
+    width: 225px;
+    height: 225px;
+    transform: translateY(20px);
+}
+
+.isifootermengecil p {
+    color: #fff;
+    transform: translateX(75px);
+    font-size: 15px;
+}
+
+.isifootermengecil span a i{
+    color: white;
+    transform: translateX(57px);
+    font-size: 25px;
+    gap: 20px;
+}
+
+.listfooter {
+    transform: translateY(25px);
+}
+
+.listfooter h6 {
+    color: #fff;
+    font-size: 13px;
+}
+
+.listfooter p {
+    color: #B0A4A4;
+    font-size: 13px;
+}
+
+
+/* Akhir Footer */
+
+/* Akhir Halaman Depan */
+
+
+
+/* Gallery */
+
+.glry {
+    height: 90vh !important;
+}
+
+/* Akhir Galley */
+
+
+
+/* Adi's Journey */
+
+/* Navbar */
+
+.navbar-brand i {
+    font-size: 30px;
+    color: #fff;
+    transform: translateX(20px);
+}
+
+.judulnews img {
+    width: 100px;
+    height: 100px;
+    transform: translateX(120px);
+}
+
+/* Akhir Navbar */
+
+/* Isi News */
+
+.tinggiisinews {
+    height: 170vh;
+}
+
+.isinewsmenurun {
+    transform: translateY(50px);
+}
+
+.adiimage img {
+    width: 100%;
+    height: 600px;
+}
+
+/* Akhir Isi News */
+
+/* Akhir Adi's Journey */
+
+
+
+/* Artikel */
+
+.tinggiisiartikel {
+    height: 170vh;
+}
+
+.isiartikelmenurun {
+    transform: translateY(50px);
+}
+
+.artikelimg img {
+    width: 100%;
+    height: 600px;
+    padding-bottom: 10px;
+}
+
+/* Artikel Jadwal & Crossfire */
+
+.tinggiisiartikeljadwal {
+    height: 110vh;
+}
+
+.isiartikelmenurunjadwal {
+    transform: translateY(50px);
+}
+
+.jadwalimage img {
+    width: 100%;
+    height: 600px;
+}
+
+/* Akhir Artikel Jadwal & Crossfire*/
+
+
+
+/* Akhir Artikel */
+
+
+
+/* Login */
+
+.form-login {
+    padding: 150px;
+    height: 90vh !important;
+}
+
+/* Akhir Login */
+
+
+
+/* Register */
+
+.form-register {
+    padding: 100px;
+    height: 100vh !important;
+}
+
+/* Akhir Register */
+
+
+
+
+/* Dashboard */
+
+.dboard {
+    height: 90vh !important;
+}
+
+
+/* Akhir Dashboard */
+
+
+
+
+/* Dashboard Tambah */
+
+.mt-3 {
+    padding: 110px;
+}
+
+/* Akhir Dashboard Tambah */
+
+
+
